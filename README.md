@@ -1,2 +1,2 @@
 # books
-Books c'est une application développé en Angular 8 et Firebase
+Books c'est une application développée avec Angular 8 et Firebase
